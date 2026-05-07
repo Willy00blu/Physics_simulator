@@ -8,7 +8,7 @@ A desktop physics simulator built with Python and Tkinter. Visualize classic mec
 
 | Home | Parameters | Simulation |
 |------|-----------|------------|
-| ![Home](assets/screenshots/home.png) | ![Params](assets/screenshots/param.png) | ![Sim](assets/screenshots/simulation.png) |
+| ![Home](assets/screenshots/home1.png) | ![Params](assets/screenshots/param.png) | ![Sim](assets/screenshots/simulation.png) |
 
 **Explosion simulation**
 
